@@ -3,3 +3,56 @@ body {
   padding: 0;
   font-family: sans-serif;
 }
+
+.home {
+  margin: 20px;
+}
+
+.listing-side {
+  float: left;
+  width: 72%;
+}
+
+.listing {
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 10px;
+}
+
+.subredditName {
+  font-size: 12px;
+  color: grey;
+}
+
+.subreddit-list {
+  border: 1px solid grey;
+  margin: 5px;
+  padding: 10px;
+  width: 22%;
+  float: right;
+}
+
+.users-subreddit {
+  padding: 15px;
+}
+
+.subreddit {
+  width: 75%;
+  float: left;
+  margin: 0px
+}
+
+.delete {
+  background-color: #C70000;
+  float: right;
+}
+
+.add {
+  background-color: #006400;
+  float: right;
+}
+
+.search {
+  margin: 15px;
+  margin-top: 20px;
+}
